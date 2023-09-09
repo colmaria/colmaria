@@ -15,5 +15,3 @@
 <img align="left" alt="TypeScript" width="26px" src="https://simpleicons.org/icons/typescript.svg" />
 <img align="left" alt="Dart" width="26px" src="https://simpleicons.org/icons/dart.svg" />
 <img align="left" alt="Flutter" width="26px" src="https://simpleicons.org/icons/flutter.svg" />
-
-<br />
