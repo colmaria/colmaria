@@ -17,7 +17,3 @@
 <img align="left" alt="Flutter" width="26px" src="https://simpleicons.org/icons/flutter.svg" />
 
 <br />
-
----
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username)](https://github.com/anuraghazra/github-readme-stats)
